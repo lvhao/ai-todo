@@ -175,4 +175,4 @@ yarn tauri build
 
 ## 在线体验
 
-🌈 [在线预览](https://lvhao.github.io/ai-todo)
+🌈 [在线预览](https://lvhao.github.io/ai-todo/)
